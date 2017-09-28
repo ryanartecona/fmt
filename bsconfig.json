@@ -1,0 +1,9 @@
+{
+  "name": "ocaml-fmt",
+  "sources": ["src"],
+  "bs-dependencies": [
+    "ocaml-result",
+    "ocaml-uchar",
+    "ocaml-cmdliner"
+  ]
+}
