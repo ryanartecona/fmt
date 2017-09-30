@@ -3,6 +3,7 @@
   "version": "0.8.4",
   "private": true,
   "dependencies": {
+    "bs-unix-compat": "github:ryanartecona/bs-unix-compat",
     "ocaml-cmdliner": "github:ryanartecona/cmdliner#bsb-native",
     "ocaml-result": "github:ryanartecona/result#bsb-native",
     "ocaml-uchar": "github:ryanartecona/uchar#bsb-native"

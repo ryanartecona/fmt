@@ -2,6 +2,7 @@
   "name": "ocaml-fmt",
   "sources": ["src"],
   "bs-dependencies": [
+    "bs-unix-compat",
     "ocaml-result",
     "ocaml-uchar",
     "ocaml-cmdliner"
